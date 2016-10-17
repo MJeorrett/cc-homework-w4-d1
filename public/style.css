@@ -1,0 +1,29 @@
+body {
+  color: DodgerBlue;
+  padding: 15px;
+}
+
+h1 {
+  background-color: LightGrey;
+  padding: 10px;
+}
+
+a {
+  background-color: LightBlue;
+  color: DodgerBlue;
+  font-size: 20px;
+  margin: 5px;
+  padding: 10px;
+  text-decoration: none;
+}
+
+a:hover {
+  border: 3px DodgerBlue solid;
+  margin: 2px;
+}
+
+p {
+  font-size: 20px;
+  padding-left: 20px;
+  padding-top: 20px;
+}
